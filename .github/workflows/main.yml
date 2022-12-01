@@ -27,3 +27,5 @@ jobs:
           TO: ${{ secrets.TO }}
           AUTH: ${{ secrets.AUTH }}
         run: python main.py
+        
+        
